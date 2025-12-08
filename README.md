@@ -1,4 +1,4 @@
-- I’m siphonofour, a wannabe FOSS dev and wannabe artist
+I’m a wannabe FOSS dev and wannabe artist
 
 <!---
 siphonofour/siphonofour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
